@@ -1,6 +1,3 @@
-Absolutely! Here's a more **friendly, human-sounding** version of your `README.md`, keeping it informative but casual:
-
----
 
 # ✍️ Code Blogs
 
