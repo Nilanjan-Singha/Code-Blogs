@@ -7,7 +7,7 @@ The fun part? I write all posts in simple Markdown files, drop them in the `publ
 
 ---
 
-## 🚀 FEATURES 
+## 🚀 Features
 
 * 📝 Just write in Markdown — no fancy editor needed
 * ⚡ Auto-converts `.md` files into full blog pages
