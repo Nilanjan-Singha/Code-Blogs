@@ -7,7 +7,7 @@ The fun part? I write all posts in simple Markdown files, drop them in the `publ
 
 ---
 
-## 🚀 What’s Inside
+## 🚀 FEATURES 
 
 * 📝 Just write in Markdown — no fancy editor needed
 * ⚡ Auto-converts `.md` files into full blog pages
@@ -36,19 +36,19 @@ Want to pick up something new? I write about:
 Tech used:
 
 * React or Next.js (depending on your setup)
-* Markdown parser (like `marked`, `remark`, or custom)
+* Markdown parser 
 * Tailwind CSS or plain HTML/CSS for styling
 
 You write `.md` files, drop them in:
 
 ```bash
-/public/blogs/
+/public/blogmds/
 ```
 
 Example:
 
 ```bash
-/public/blogs/my-first-blog.md
+/public/blogmds/my-first-blog.md
 ```
 
 …and it's live. That’s it!
@@ -75,12 +75,3 @@ Visit: [http://localhost:3000](http://localhost:3000)
 3. Write your post in Markdown
 4. Save — and you're done 🎉
 
----
-
-## 📜 License
-
-MIT — feel free to use, remix, or build on it.
-
----
-
-Want me to tailor it for deployment (like GitHub Pages, Vercel, Netlify)? Just say the word.
