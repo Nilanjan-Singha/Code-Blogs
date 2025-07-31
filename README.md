@@ -27,7 +27,7 @@ Want to pick up something new? I write about:
 * Open source tools & contributions
 * And anything else I geek out about 🤓
 
-👉 **[Check out the posts here](#)** (link coming soon!)
+👉 **[Check out the posts here](#)** (https://codewithnil.netlify.app/)
 
 ---
 
